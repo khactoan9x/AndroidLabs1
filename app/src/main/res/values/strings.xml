@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab1ToanDinh</string>
+    <string name="hello_message">Hello World!</string>
+    <string name="ButtonText">I\'m a button</string>
+    <string name="test">testtest</string>
+    <string name="TextView">Here are my widgets:</string>
+    <string name="Botton">Botton</string>
+    <string name="Switch">Switch on/off</string>
+    <string name="HintText">Type your name in here</string>
+    <string name="checkBoxText">Check this out</string>
+
+
+</resources>
