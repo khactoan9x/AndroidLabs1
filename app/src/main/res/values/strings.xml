@@ -8,6 +8,18 @@
     <string name="Switch">Switch on/off</string>
     <string name="HintText">Type your name in here</string>
     <string name="checkBoxText">Check this out</string>
+    <string name="emailAddress">Enter your email address</string>
+    <string name="enterEmailAddress">Type email here</string>
+    <string name="password">Type your password:</string>
+    <string name="bottonlab3">Login</string>
+    <string name="profile">Your profile</string>
+    <string name="profileName">Your name:</string>
+    <string name="enterName">Enter your name</string>
+    <string name="yourEmail">Your email:</string>
+    <string name="enterEmail">Enter your email</string>
+    <string name="picture">Your picture:</string>
+    <string name="textBotton">Click the button above to take a picture</string>
+
 
 
 </resources>

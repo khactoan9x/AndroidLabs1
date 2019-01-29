@@ -8,6 +8,17 @@
     <string name="Switch">Cong tac bat tat</string>
     <string name="HintText">Dien ten ban o day</string>
     <string name="checkBoxText">Kiem tra</string>
+    <string name="emailAddress">Nhap dia chi email tai day:</string>
+    <string name="enterEmailAddress">Nhap email</string>
+    <string name="password">Nhap mat khau:</string>
+    <string name="bottonlab3">Dang Nhap</string>
+    <string name="profile">Thong tin cua ban</string>
+    <string name="profileName">Ten cua ban:</string>
+    <string name="enterName">Nhap ten</string>
+    <string name="yourEmail">Dia chi e mail:</string>
+    <string name="enterEmail">Nhap email</string>
+    <string name="picture">Anh:</string>
+    <string name="textBotton">Nhap nut phia duoi de chup anh</string>
 
 
 </resources>
